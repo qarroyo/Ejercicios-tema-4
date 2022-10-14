@@ -1,4 +1,4 @@
-public class App {
+public class Main {
 
     static void condicionalExercise() {
         int numerolf = 1;
@@ -54,8 +54,8 @@ public class App {
                 System.out.println("No es ninguna estacion.");
         }
     }
-    
-       public static void main(String[] args) throws Exception {
+
+    public static void main(String[] args) throws Exception {
 
         condicionalExercise();
 
@@ -75,4 +75,3 @@ public class App {
 
         switchExercise("Verano");
     }
-}
